@@ -1,4 +1,6 @@
-## Personal Programs
+# Projects
+
+## Personal Projects
 
 ### Text Based Poker:
 First personal project, created after 2 months of working with Java. Allows user to play a game of Texas Hold'em (without betting) in the console.
