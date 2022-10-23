@@ -12,6 +12,10 @@ Builds upon Text Based Poker by running a GUI program to play a game of Texas Ho
 Simple program that allows the user to play Rock, Paper, Scissors in the console.
 [Rock, Paper, Scissors GitHub](https://github.com/BrandonCardoza/RockPaperScissors.git)
 
+### Card Counter
+Simple program that counts cards in a standard deck of playing cards. Displays the amount of that card left in the deck, the toal cards left in the deck, and the percent chance the next card drawn is that specific card.
+[Card Counter](https://github.com/BrandonCardoza/CardCounter.git)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
