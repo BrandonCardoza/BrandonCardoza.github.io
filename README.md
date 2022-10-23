@@ -9,16 +9,16 @@ Builds upon Text Based Poker by running a GUI program to play a game of Texas Ho
 [GUI Poker GitHub](https://github.com/BrandonCardoza/GUIPoker.git)
 
 ### Rock Paper Scissors:
-Simple program that allows the user to play Rock, Paper, Scissors in the console.
-[Rock, Paper, Scissors GitHub](https://github.com/BrandonCardoza/RockPaperScissors.git)
+Simple program that allows the user to play Rock Paper Scissors in the console.
+[Rock Paper Scissors GitHub](https://github.com/BrandonCardoza/RockPaperScissors.git)
 
 ### Card Counter
 Simple program that counts cards in a standard deck of playing cards. Displays the amount of that card left in the deck, the toal cards left in the deck, and the percent chance the next card drawn is that specific card.
-[Card Counter](https://github.com/BrandonCardoza/CardCounter.git)
+[Card Counter GitHub](https://github.com/BrandonCardoza/CardCounter.git)
 
 ### Board State Practice
 GUi program that generates a random board state from the trading card game Magic the Gathering. User can enter up to four decks and can refresh new board states as many times as desired. Used to practice strategy for playing Magic the Gathering.
-[Board State Practice](https://github.com/BrandonCardoza/BoardStatePractice.git)
+[Board State Practice GitHub](https://github.com/BrandonCardoza/BoardStatePractice.git)
 
 ### Markdown
 
