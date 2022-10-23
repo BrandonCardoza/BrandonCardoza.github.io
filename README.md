@@ -20,34 +20,8 @@ Simple program that counts cards in a standard deck of playing cards. Displays t
 GUi program that generates a random board state from the trading card game Magic the Gathering. User can enter up to four decks and can refresh new board states as many times as desired. Used to practice strategy for playing Magic the Gathering.
 [Board State Practice GitHub](https://github.com/BrandonCardoza/BoardStatePractice.git)
 
-### Markdown
+## School Projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BrandonCardoza/BrandonCardoza.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### CS321 BTree project
+This was by far my biggest project that I have worked on. This was a group project for my Data Structures class where myself and two others worked together. We utilised GitHub for the first time in this project, used agile development to meet sprint deadlines using a scrum board with project backlogs and sprint backlogs, and implemented mySQL into this project. It took us over a month to finish this project including multiple 8 hour days working over Thanksgiving break to make progress. We had weekly standup meetings to discuss our progress. Our team worked extremely well together as we were able to help each other with parts of the project the other two didn't understand. I primarily worked on the BTree part of the project and helped my teammates with parts they were stuck on and they helped me on parts I didn't understand so everything made sense to everyone. 
+[CS321 BTree Project GitHub](https://github.com/BrandonCardoza/CS321FinalProject.git)
