@@ -8,6 +8,10 @@ First personal project, created after 2 months of working with Java. Allows user
 Builds upon Text Based Poker by running a GUI program to play a game of Texas Hold'em (without betting). Can be played multiple times and scores are stored in a separate file to be loaded in upon running the program again.
 [GUI Poker GitHub](https://github.com/BrandonCardoza/GUIPoker.git)
 
+### RockPaper Scissors:
+Simple program that allows the user to play Rock, Paper, Scissors in the console.
+[Rock, Paper, Scissors GitHub](https://github.com/BrandonCardoza/RockPaperScissors.git)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
