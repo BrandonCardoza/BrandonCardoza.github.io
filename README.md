@@ -1,8 +1,12 @@
-## Welcome to GitHub Pages
+## Personal Programs
 
-You can use the [editor on GitHub](https://github.com/BrandonCardoza/BrandonCardoza.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### Text Based Poker:
+First personal project, created after 2 months of working with Java. Allows user to play a game of Texas Hold'em (without betting) in the console.
+https://github.com/BrandonCardoza/TextBasedPoker.git
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### GUI Poker:
+Builds upon Text Based Poker by running a GUI program to play a game of Texas Hold'em (without betting). Can be played multiple times and scores are stored in a separate file to be loaded in upon running the program again.
+https://github.com/BrandonCardoza/GUIPoker.git
 
 ### Markdown
 
