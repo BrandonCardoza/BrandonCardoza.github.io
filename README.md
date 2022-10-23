@@ -16,6 +16,10 @@ Simple program that allows the user to play Rock, Paper, Scissors in the console
 Simple program that counts cards in a standard deck of playing cards. Displays the amount of that card left in the deck, the toal cards left in the deck, and the percent chance the next card drawn is that specific card.
 [Card Counter](https://github.com/BrandonCardoza/CardCounter.git)
 
+### Board State Practice
+GUi program that generates a random board state from the trading card game Magic the Gathering. User can enter up to four decks and can refresh new board states as many times as desired. Used to practice strategy for playing Magic the Gathering.
+[Board State Practice](https://github.com/BrandonCardoza/BoardStatePractice.git)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
