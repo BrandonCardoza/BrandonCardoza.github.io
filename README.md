@@ -19,7 +19,7 @@ Simple program that counts cards in a standard deck of playing cards. Displays t
 [Card Counter GitHub](https://github.com/BrandonCardoza/CardCounter.git)
 
 ### Board State Practice
-GUi program that generates a random board state from the trading card game Magic the Gathering. User can enter up to four decks and can refresh new board states as many times as desired. Used to practice strategy for playing Magic the Gathering.
+GUI program that generates a random board state from the trading card game Magic the Gathering. User can enter up to four decks and can refresh new board states as many times as desired. Used to practice strategy for playing Magic the Gathering.
 [Board State Practice GitHub](https://github.com/BrandonCardoza/BoardStatePractice.git)
 
 ## School Projects
